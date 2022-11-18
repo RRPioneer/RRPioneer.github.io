@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sample Title"
+title                    : "Pei Yang's Home Page"
 title_separator          : "-"
-name                     : &name "Sample Name"
+name                     : &name "Pei Yang"
 description              : &description "personal description"
 url                      : https://RRPioneer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pei Yang 杨沛"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Glasgow College, University of Electronic Science and Technology of China"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "sam.yangpei@gmail.com"
   wikipedia        :
 
 
