@@ -1,10 +1,7 @@
 ---
 #title: "Portfolio item number 1"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-
-<img src='/images/500x300.png'><br/><br/>
-
-title: "Portfolio item number 1"
+title: "<img src='/images/500x300.png'><br/><br/>Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1 - test"
 collection: portfolio
 ---
