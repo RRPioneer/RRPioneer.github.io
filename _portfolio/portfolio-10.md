@@ -1,13 +1,11 @@
 ---
 #title: "Portfolio item number 1"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-title: "<img src='/images/MS.JPG' width='900' height='400'><br/><br/>Portfolio item number 1"
-excerpt: "📅 9/2022 - 11/2022&emsp;&emsp;📍 Chengdu<br/>Short description of portfolio item number 1 - test"
+title: "<img src='/images/MS.JPG' width='900' height='400'><br/><br/>Touchscreen Tic-Tac-Toe Game Design based on Mbed Simulator"
+excerpt: "📅 4/2022&emsp;&emsp;📍 Online<br/>🏫 Glasgow College, UESTC<br/>🏷️ DFS, arm mbed, C++, touchscreen, PWM speaker"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project presents a touch-screen Tic-Tac-Toe game. Users can play with the computer, but it would be difficult (although still possible) for the user to win. If the user can win in one future move, the computer player will block that move. Otherwise, the computer player will implement DFS algorithm to search through all future moves and calculate the possiblity of winning for each move. Then it will make a move that would be most likely to win. 
 
-![image](/images/3953273590_704e3899d5_m.jpg)
-
- 
+Due to the pandemic, this project was conducted online in [mbed simulator](https://simulator.mbed.com/). However, this website will end service by December 2022, so this project may not be directly repliated. The source code of this project is available [here](https://pastebin.ubuntu.com/p/GJbb97pDbV/).
