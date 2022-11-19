@@ -2,7 +2,7 @@
 #title: "Portfolio item number 1"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 title: "<img src='/images/MS.JPG' width='900' height='400'><br/><br/>Touchscreen Tic-Tac-Toe Game Design based on Mbed Simulator"
-excerpt: "📅 4/2020&emsp;&emsp;📍 Online<br/>🏫 Glasgow College, UESTC<br/>🏷️ DFS, arm mbed, C++, touchscreen, PWM speaker"
+excerpt: "📅 4/2020&emsp;&emsp;📍 Online<br/>🏫 Glasgow College, UESTC<br/>🏷️ DFS, arm mbed, C++, touchscreen, PWM speaker<br/>"
 collection: portfolio
 ---
 
