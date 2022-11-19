@@ -8,4 +8,6 @@ collection: portfolio
 
 This DIY project receives ADS-B signals from nearby flights and feeds the signal to several flight tracker websites, including FlightRadar24, FlightAware, RadarBox, and Variflight. Alternatively, a 3.5-inch screen displays information in real-time, including feeder status, hourly-updated METAR, and current antenna gain. An iPhone Widget also shows the number of flight-on-radar. This project was developed based on [AirNav RadarBox XRange 2](https://www.amazon.com/AirNav-RadarBox-XRange2-Enhanced-Receiver/dp/B08DJB4BXM).
 
+I also recorded a fundamental tutorial as follows.
 
+<iframe src="//player.bilibili.com/player.html?aid=420546312&bvid=BV1L341127pA&cid=411050528&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
