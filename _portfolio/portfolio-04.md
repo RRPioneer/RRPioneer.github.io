@@ -1,8 +1,8 @@
 ---
 #title: "Portfolio item number 1"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-title: "<img src='/images/ADSB.JPG' width='900' height='400'><br/><br/>Portfolio item number 1"
-excerpt: "📅 9/2022 - 11/2022&emsp;&emsp;📍 Chengdu<br/>ADS-B Flight Receiver and Feeder"
+title: "<img src='/images/ADSB.JPG' width='900' height='400'><br/><br/>ADS-B Flight Receiver and Feeder"
+excerpt: "📅 9/2021&emsp;&emsp;📍 Chengdu<br/>🏷️ ADS-B, antenna, analogue filter, flight tracker, Raspberry Pi, widget"
 collection: portfolio
 ---
 
