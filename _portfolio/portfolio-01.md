@@ -2,7 +2,7 @@
 #title: "Portfolio item number 1"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 title: "<img src='/images/DIP1.JPG' width='900' height='400'><br/><br/>Image and Video Dehazing"
-excerpt: "📅 10/2022&emsp;&emsp;📍 Chengdu<br/>🏫 Glasgow College, UESTC<br/>🏷️ Digital image processing<br/>"
+excerpt: "📅 10/2022&emsp;&emsp;📍 Chengdu<br/>🏫 Glasgow College, UESTC<br/>🤝 LI Sipei 李思培, PANG Yuxuan 庞宇轩, ZHANG Jiuchuan 张九川<br/>🏷️ Digital image processing<br/>"
 collection: portfolio
 ---
 
