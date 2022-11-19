@@ -1,13 +1,12 @@
 ---
 #title: "Portfolio item number 1"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-title: "<img src='/images/NUS.JPG' width='900' height='400'><br/><br/>Portfolio item number 1"
-excerpt: "📅 9/2022 - 11/2022&emsp;&emsp;📍 Chengdu<br/>Short description of portfolio item number 1 - test"
+title: "<img src='/images/NUS.JPG' width='900' height='400'><br/><br/>Traffic Sign Recognition"
+excerpt: "📅 5/2021 - 7/2021&emsp;&emsp;📍 Online<br/>🏫 School of Computing, National University of Singapore<br/>🏷️ Convolutional neural network, German Traffic Sign Recognition Benchmark<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project performs recognition of German traffic signs. We constructed a convolutional neural network that obtained an accuracy of 97.1% -- highest in the class.
 
-![image](/images/3953273590_704e3899d5_m.jpg)
 
  
