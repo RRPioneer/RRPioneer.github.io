@@ -2,7 +2,7 @@
 #title: "Portfolio item number 1"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 title: "<img src='/images/TDPS.JPG' width='900' height='400'><br/><br/>⭐ Smart Autonomous Rover Design"
-excerpt: "📅 2/2022 - 6/2022&emsp;&emsp;📍 Chengdu<br/>🏫Glasgow College, UESTC<br/>🏷️ Team design project, computer vision, machine learning, lane following, microcontroller"
+excerpt: "📅 2/2022 - 6/2022&emsp;&emsp;📍 Chengdu<br/>🏫Glasgow College, UESTC<br/>🏷️ Team design project, computer vision, machine learning, lane following, microcontroller<br/>"
 collection: portfolio
 ---
 
