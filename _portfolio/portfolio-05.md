@@ -6,5 +6,5 @@ excerpt: "📅 5/2021 - 7/2021&emsp;&emsp;📍 Online<br/>🏫 School of Computi
 collection: portfolio
 ---
 
-This project performs identity recognitions of masked faces. Our recognition accuracy was the highest among all groups choosing this project, and we received a Runner-Up among groups doing all projects.
+This project performs identity recognitions of masked faces. Our recognition accuracy was the highest among all groups choosing this project, and we received a Runner-Up among groups doing all projects. 
 
