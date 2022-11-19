@@ -23,7 +23,12 @@ Our designed rover is equipped with a mbed Nucleo-L432KC as the central controll
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKZ_vrKXbW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Test Videos
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=854150785&bvid=BV1E54y1Z7G4&cid=725258636&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ## Links
- - ![Team 34 - Final Report](http://rrpioneer.github.io/files/DIP1.pdf)
- - ![Team 34 - Initial Report](http://rrpioneer.github.io/files/DIP1.pdf)
+[Team 34 - Final Report](http://rrpioneer.github.io/files/DIP1.pdf)
+[The lab report is available here.](http://rrpioneer.github.io/files/DIP1.pdf)
+ - [Team 34 - Initial Report](http://rrpioneer.github.io/files/DIP1.pdf)
 
