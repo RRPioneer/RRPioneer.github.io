@@ -2,7 +2,7 @@
 #title: "Portfolio item number 1"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 title: "<img src='/images/demo.jpg'><br/><br/>Portfolio item number 1"
-excerpt: "📍 Chengdu<br>Short description of portfolio item number 1 - test"
+excerpt: "📅 9/2022 - 11/2022  📍 Chengdu<br>Short description of portfolio item number 1 - test"
 collection: portfolio
 ---
 
